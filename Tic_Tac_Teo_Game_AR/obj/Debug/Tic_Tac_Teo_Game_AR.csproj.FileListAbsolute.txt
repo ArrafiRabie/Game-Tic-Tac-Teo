@@ -1,0 +1,10 @@
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\bin\Debug\Tic_Tac_Teo_Game_AR.exe.config
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\bin\Debug\Tic_Tac_Teo_Game_AR.exe
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\bin\Debug\Tic_Tac_Teo_Game_AR.pdb
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.csproj.AssemblyReference.cache
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.Form1.resources
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.Properties.Resources.resources
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.csproj.GenerateResource.cache
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.csproj.CoreCompileInputs.cache
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.exe
+C:\Users\INFO\Desktop\Application_Rabie\Tic_Tac_Teo_Game_AR\Tic_Tac_Teo_Game_AR\obj\Debug\Tic_Tac_Teo_Game_AR.pdb
